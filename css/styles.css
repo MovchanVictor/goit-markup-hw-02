@@ -57,7 +57,7 @@ body {
   background-color: var(--hero-color);
   cursor: pointer;
 }
-.heder-list .heder-link.current {
+.heder .current {
   color: var(--accent-color);
 }
 .heder-list :hover,
